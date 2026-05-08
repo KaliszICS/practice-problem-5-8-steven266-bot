@@ -29,7 +29,7 @@ public class PracticeProblem {
     }
 
  
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         String[] names = {"Alice", "Bob", "Charlie"};
         int[] ages = {20, 25, 30};
 
